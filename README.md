@@ -88,10 +88,15 @@ void loop()
 
 ### Serial Monitor:
 ![output](t.png)
+
 ![output](t1.png)
+
 ![output](t2.png)
+
 ![output](t3.png)
+
 ![output](t4.png)
+
 ![output](t5.png)
 
 
