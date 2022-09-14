@@ -1,5 +1,6 @@
 # EXPERIMENT-NO--05-Distance measurement using Ultrasonic sensor
-
+//NAME:PRETHIVEERAJAN P
+// REG.NO:212221230079
 ## AIM: 
 To interface an ultrasonic pair and measure the distance in centimeters , calculate the error
  
